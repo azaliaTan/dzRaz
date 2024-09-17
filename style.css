@@ -1,0 +1,30 @@
+:root {
+    --font-family-j: 'Nunito', sans-serif;
+ 
+}
+
+body{
+    font-family: var(--font-family-j);
+
+}
+h1{
+    font-size: 25px;
+    font-weight: 450;
+    text-transform: uppercase;
+}
+.w{
+    display: flex;
+    gap: 50px;
+margin: 100px;
+
+}
+.w a{
+    font-family: var(--font-family-j);
+    font-size: 23px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: black;
+}
+body{
+    padding: 35px 150px;
+}
